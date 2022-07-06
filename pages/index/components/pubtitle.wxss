@@ -1,0 +1,5 @@
+
+.pubTitle{ display: flex; justify-content: space-between;height: 60rpx;  align-items: center; margin-bottom:20rpx;margin-left: 20rpx;}
+.pubTitle .txt{ font-size:30rpx;font-weight: bold; height: 100%; position: relative; padding-left:20rpx;}
+.pubTitle .more{ font-size:34rpx; color:#666;margin-right: 20rpx;}
+

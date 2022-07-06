@@ -1,0 +1,1 @@
+<view class="pubTitle"><view class="txt">如何拥有父母的基因报告？</view><view class="class1"><button class="but" style="width:100%;" id="buy" data-event-opts="{{[['tap',[['seArch']]]]}}" bindtap="__e">购买掌贝检测服务</button></view><view class="class1"><view class="txt2">如何拥有自己父母的基因报告？</view><view class="txt3">立即绑定</view></view></view>

@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "社区",
+  "usingComponents": {
+    "van-button": "/wxcomponents/vant/dist/button/index",
+    "van-cell": "/wxcomponents/vant/dist/cell/index",
+    "van-cellgroup": "/wxcomponents/vant/dist/cell-group/index",
+    "van-panel": "/wxcomponents/vant/dist/panel/index",
+    "van-icon": "/wxcomponents/vant/dist/icon/index"
+  }
+}

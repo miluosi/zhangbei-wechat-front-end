@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "掌贝",
+  "usingComponents": {
+    "search": "/pages/index/components/search",
+    "pubtitle": "/pages/index/components/pubtitle",
+    "intro": "/pages/index/components/intro",
+    "shoptitle": "/pages/index/components/shoptitle",
+    "goodslist": "/pages/index/components/goodslist",
+    "footer": "/pages/index/components/footer"
+  }
+}

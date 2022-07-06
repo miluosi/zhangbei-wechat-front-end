@@ -1,0 +1,95 @@
+
+.out{
+    padding:26rpx;
+}
+.blogTitle{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.blogTitle .user{
+    display: flex;
+    align-items: center;
+}
+.blogTitle .pic{
+    width:100rpx;
+    height: 100rpx;
+    border-radius: 50%;
+    overflow: hidden;
+}
+.blogTitle .pic image{
+    width:100%;
+    height: 100%;
+}
+.blogTitle .text{
+    padding-left:15rpx;  
+    line-height: 1.4em;
+}
+.blogTitle .username{
+    font-size:40rpx;
+    color:#111;
+}
+.blogTitle .address{
+    font-size:26rpx;
+    color:#999;
+}
+.blogTitle .phone{
+    font-size:30rpx;
+    color:#666;
+}
+.blogCon{
+    padding:30rpx;
+}
+.blogCon .text{
+    line-height: 1.6em;
+    color:#111;
+    padding-bottom:20rpx;
+    text-align: justify;
+}
+.blogCon .picGroup{
+    width:100%;
+    min-height: 200rpx;
+}
+.blogCon .picGroup image{
+    width:100%;
+    height: 100%;
+}
+.blogCon .video{
+    width:100%;
+    height: 400rpx;
+}
+.blogCon .video video{
+    width:100%;
+    height: 100%;
+}
+.blogFt{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.blogFt .time{
+    font-size:30rpx;
+    color:#888
+}
+.blogFt .van-button{margin-left:10rpx}
+.blogFt .but1{
+    display:flex;
+}
+.addBlog{
+    width:130rpx;height: 130rpx;
+    background:#07C160;
+    border-radius: 50%; 
+    font-size:60rpx;
+    color:#fff;
+    font-weight: 600;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    right: 50rpx;
+    bottom:100rpx;
+    z-index: 100;
+    box-shadow: 0 0 20rpx rgba(7,193,96,0.8);
+}
+
+

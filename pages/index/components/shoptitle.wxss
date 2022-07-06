@@ -1,0 +1,9 @@
+
+.pubTitle{  justify-content: space-between;height: 60rpx;  align-items: center; margin-bottom:20rpx;margin-left: 20rpx;}
+.pubTitle .txt{ font-size:30rpx;font-weight: bold; height: 100%; position: relative; padding-left:20rpx;}
+.pubTitle .more{ font-size:34rpx; color:#666;margin-right: 20rpx;}
+.class1{margin-left: 20rpx;margin-right: 20rpx;margin-top: 20rpx;margin-bottom: 20rpx;display: flex;align-items: center;  justify-content: center;}
+.txt2{font-size: 20rpx;align-items: center;}
+.txt3{font-size: 20rpx;color: #007AFF;}
+.but{color: #ffffff;background-color: #007AFF;font-weight: bold;}
+
